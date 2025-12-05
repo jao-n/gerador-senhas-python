@@ -1,2 +1,11 @@
-# gerador-senhas-python
-Gerador de senhas aleatórias em Python que combina letras, números e símbolos especiais. Código simples e eficiente para criar senhas seguras.
+# 🔐 Gerador de Senhas Aleatórias em Python
+
+Um gerador de senhas seguro e configurável desenvolvido em Python, ideal para criar senhas fortes para suas contas online.
+
+## ✨ Funcionalidades
+
+- Gera senhas com letras maiúsculas e minúsculas
+- Inclui números e símbolos especiais
+- Tamanho personalizável (padrão: 12 caracteres)
+- Código simples e de fácil compreensão
+- Pronto para uso em Google Colab
